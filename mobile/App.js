@@ -132,7 +132,7 @@ function buildReportHtml(report) {
       ul { margin: 0 0 0 18px; padding: 0; }
       li { margin: 0 0 5px; line-height: 1.24; text-align: justify; }
       strong { color: #b01620; }
-      strong.positive { color: #128020; }
+      strong.positive { color: #b01620; }
       .meta { border-bottom: 1px solid #24465d; padding-bottom: 8px; }
     </style>
   </head>
@@ -1101,7 +1101,7 @@ const styles = StyleSheet.create({
     lineHeight: 22
   },
   positiveTitle: {
-    color: "#128020",
+    color: "#b01620",
     fontWeight: "900"
   },
   criticalTitle: {

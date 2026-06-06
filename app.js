@@ -996,7 +996,7 @@ function downloadWord() {
     .source-heading { margin: 0 0 2px; color: #24465d; font-size: 21pt; line-height: 1; }
     .score-line { margin: 0 0 1px; font-size: 14.5pt; line-height: 1.16; }
     .score-line strong:first-child, .article-title { color: #b01620; }
-    .article-title.positive { color: #128020; }
+    .article-title.positive { color: #b01620; }
     .review-list { margin: 0 0 0 18pt; padding: 0; list-style-type: square; }
     .review-list li { margin: 0; padding-left: 3pt; font-size: 16pt; line-height: 1.18; text-align: justify; }
     .author { font-weight: 800; }
