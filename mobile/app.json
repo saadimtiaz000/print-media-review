@@ -2,7 +2,7 @@
   "expo": {
     "name": "Print Media Review",
     "slug": "print-media-review",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "scheme": "printmediareview",
     "userInterfaceStyle": "dark",

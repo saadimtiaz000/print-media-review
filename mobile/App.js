@@ -2,7 +2,6 @@ import React, { useEffect, useMemo, useState } from "react";
 import {
   Alert,
   Linking,
-  Platform,
   Pressable,
   SafeAreaView,
   ScrollView,
@@ -20,13 +19,7 @@ import sampleReport from "./src/sampleReport";
 
 const SCORE_NAMES = ["State", "Opposition", "Reform", "Security", "Civil liberties"];
 const SOURCES = ["Dawn", "The News International", "The Express Tribune"];
-const API_BASE =
-  process.env.EXPO_PUBLIC_REPORT_API_BASE_URL ||
-  Platform.select({
-    android: "http://10.0.2.2:3000",
-    ios: "http://localhost:3000",
-    default: ""
-  });
+const API_BASE = "https://print-media-review-api.onrender.com";
 
 function todayIso() {
   const now = new Date();
@@ -292,25 +285,20 @@ export default function App() {
       setArchiveOpen(false);
       fetchArchives();
     } catch (error) {
-      if (targetDate === sampleReport.dateIso) {
-        setReport(sampleReport.report);
-        setStatus("Sample offline");
-      } else {
-        setReport({
-          ...emptyReport(targetDate),
-          readTime: "Unavailable",
-          fetchedAt: error.message,
-          sections: [
-            {
-              source: "Report service",
-              status: "blocked",
-              scores: emptyScores(),
-              items: []
-            }
-          ]
-        });
-        setStatus("Offline");
-      }
+      setReport({
+        ...emptyReport(targetDate),
+        readTime: "Unavailable",
+        fetchedAt: `Live fetch failed: ${error.message}`,
+        sections: [
+          {
+            source: "Render live API",
+            status: "blocked",
+            scores: emptyScores(),
+            items: []
+          }
+        ]
+      });
+      setStatus("Live API offline");
     } finally {
       setLoading(false);
     }
