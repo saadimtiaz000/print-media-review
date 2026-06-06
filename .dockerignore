@@ -1,0 +1,15 @@
+node_modules
+.next
+mobile/node_modules
+mobile/android/.gradle
+mobile/android/app/build
+mobile/android/build
+android-app/build
+*.apk
+*.idsig
+emulator-*.png
+.git
+.expo
+mobile/.expo
+mobile/.expo-check
+npm-debug.log*

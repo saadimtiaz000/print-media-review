@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Print Media Review",
+    "slug": "print-media-review",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "printmediareview",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.printmediareview.mobile"
+    },
+    "android": {
+      "package": "com.printmediareview.mobile",
+      "usesCleartextTraffic": true,
+      "adaptiveIcon": {
+        "backgroundColor": "#07090c"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}

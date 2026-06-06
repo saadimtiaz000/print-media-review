@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: print-media-review-api
+    runtime: docker
+    plan: free
+    autoDeploy: true
+    healthCheckPath: /api/archives
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PYTHON_PATH
+        value: /usr/local/bin/python

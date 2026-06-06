@@ -1,0 +1,172 @@
+{
+  "date": "06 June 2026",
+  "readTime": "Approx reading time: 2 minutes",
+  "fetchWindow": "Date filter: only 06 June 2026 articles/op-eds",
+  "fetchedAt": "Scraped: 06 June 2026, 09:34",
+  "sections": [
+    {
+      "source": "Dawn",
+      "status": "scraped",
+      "scores": {
+        "State": 5,
+        "Opposition": 2.5,
+        "Reform": 3.5,
+        "Security": 3.5,
+        "Civil liberties": 2.5
+      },
+      "items": [
+        {
+          "title": "Slow and steady healing",
+          "author": "Murad Moosa Khan",
+          "theme": "State",
+          "tone": "positive",
+          "summary": "casts state capacity as the central question; For countries like Pakistan, slow medicine is particularly relevant..",
+          "url": "https://www.dawn.com/news/2005595/slow-and-steady-healing",
+          "dateIso": "2026-06-06"
+        },
+        {
+          "title": "Is Islamic banking Islamic?",
+          "author": "Miftah Ismail",
+          "theme": "State",
+          "tone": "positive",
+          "summary": "casts state capacity as the central question; We should examine how close to Quranic edicts is Islamic banking..",
+          "url": "https://www.dawn.com/news/2005594/is-islamic-banking-islamic",
+          "dateIso": "2026-06-06"
+        },
+        {
+          "title": "Cooling cities",
+          "author": "Mohamed Yahya",
+          "theme": "Security",
+          "tone": "critical",
+          "summary": "treats the issue as a security and stability risk; Climate action must begin with redesigning our cities..",
+          "url": "https://www.dawn.com/news/2005593/cooling-cities",
+          "dateIso": "2026-06-06"
+        },
+        {
+          "title": "Going it alone",
+          "author": "Rafia Zakaria",
+          "theme": "State",
+          "tone": "positive",
+          "summary": "casts state capacity as the central question; The idea of staying single is becoming increasingly acceptable..",
+          "url": "https://www.dawn.com/news/2005592/going-it-alone",
+          "dateIso": "2026-06-06"
+        },
+        {
+          "title": "Incomplete systems & markets",
+          "author": "Faisal Bari",
+          "theme": "Reform",
+          "tone": "positive",
+          "summary": "frames reform as the main test; Why does our healthcare system lack diabetes prevention and management programmes?.",
+          "url": "https://www.dawn.com/news/2005329/incomplete-systems-markets",
+          "dateIso": "2026-06-06"
+        },
+        {
+          "title": "Beyond budget arithmetic",
+          "author": "Ehsan Malik",
+          "theme": "State",
+          "tone": "positive",
+          "summary": "casts state capacity as the central question; Pakistan has absorbed much of the fiscal cost of devolution without fully realising its potential efficiency gains..",
+          "url": "https://www.dawn.com/news/2005328/beyond-budget-arithmetic",
+          "dateIso": "2026-06-06"
+        },
+        {
+          "title": "Permanence & change",
+          "author": "Jan-e-Alam Khaki",
+          "theme": "State",
+          "tone": "positive",
+          "summary": "casts state capacity as the central question; We need to make a difference between form and essence..",
+          "url": "https://www.dawn.com/news/2005326/permanence-change",
+          "dateIso": "2026-06-06"
+        }
+      ]
+    },
+    {
+      "source": "The News International",
+      "status": "blocked",
+      "error": "No matching articles found for 06 June 2026",
+      "scores": {
+        "State": 0,
+        "Opposition": 0,
+        "Reform": 0,
+        "Security": 0,
+        "Civil liberties": 0
+      },
+      "items": []
+    },
+    {
+      "source": "The Express Tribune",
+      "status": "scraped",
+      "scores": {
+        "State": 5,
+        "Opposition": 2.5,
+        "Reform": 2.5,
+        "Security": 2.5,
+        "Civil liberties": 2.5
+      },
+      "items": [
+        {
+          "title": "Looming food crisis",
+          "author": "editorial",
+          "theme": "State",
+          "tone": "positive",
+          "summary": "casts state capacity as the central question; tracks the argument around looming food crisis and places it inside Pakistan's daily policy debate.",
+          "url": "https://tribune.com.pk/story/2611659/looming-food-crisis-2",
+          "dateIso": "2026-06-06"
+        },
+        {
+          "title": "Expanding settlements",
+          "author": "editorial",
+          "theme": "State",
+          "tone": "positive",
+          "summary": "casts state capacity as the central question; tracks the argument around expanding settlements and places it inside Pakistan's daily policy debate.",
+          "url": "https://tribune.com.pk/story/2611660/expanding-settlements",
+          "dateIso": "2026-06-06"
+        },
+        {
+          "title": "Minimum wage",
+          "author": "editorial",
+          "theme": "State",
+          "tone": "positive",
+          "summary": "casts state capacity as the central question; tracks the argument around minimum wage and places it inside Pakistan's daily policy debate.",
+          "url": "https://tribune.com.pk/story/2611661/minimum-wage-2",
+          "dateIso": "2026-06-06"
+        },
+        {
+          "title": "International degrees: a promise that must not become a privilege",
+          "author": "Dr Intikhab Ulfat",
+          "theme": "State",
+          "tone": "positive",
+          "summary": "casts state capacity as the central question; International degrees: a promise that must not become a privilege.",
+          "url": "https://tribune.com.pk/story/2611658/international-degrees-a-promise-that-must-not-become-a-privilege",
+          "dateIso": "2026-06-06"
+        },
+        {
+          "title": "From shock to pattern: Trump 1.0 and the meaning of Trump 2.0",
+          "author": "M Zeb Khan",
+          "theme": "State",
+          "tone": "positive",
+          "summary": "casts state capacity as the central question; From shock to pattern: Trump 1.0 and the meaning of Trump 2.0.",
+          "url": "https://tribune.com.pk/story/2611662/from-shock-to-pattern-trump-10-and-the-meaning-of-trump-20",
+          "dateIso": "2026-06-06"
+        },
+        {
+          "title": "Economy and agency",
+          "author": "Farrukh Khan Pitafi",
+          "theme": "State",
+          "tone": "positive",
+          "summary": "casts state capacity as the central question; tracks the argument around economy and agency and places it inside Pakistan's daily policy debate.",
+          "url": "https://tribune.com.pk/story/2611663/economy-and-agency",
+          "dateIso": "2026-06-06"
+        }
+      ]
+    }
+  ],
+  "archive": {
+    "folder": "archive/2026-06-06",
+    "files": [
+      "report.json",
+      "report.txt"
+    ],
+    "archivedAt": "2026-06-06T04:34:13.660Z"
+  }
+}

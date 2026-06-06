@@ -1,0 +1,172 @@
+{
+  "date": "05 June 2026",
+  "readTime": "Approx reading time: 2 minutes",
+  "fetchWindow": "Date filter: only 05 June 2026 articles/op-eds",
+  "fetchedAt": "Scraped: 06 June 2026, 00:31",
+  "sections": [
+    {
+      "source": "Dawn",
+      "status": "scraped",
+      "scores": {
+        "State": 5,
+        "Opposition": 2.5,
+        "Reform": 3.5,
+        "Security": 2.5,
+        "Civil liberties": 2.5
+      },
+      "items": [
+        {
+          "title": "Incomplete systems & markets",
+          "author": "Faisal Bari",
+          "theme": "Reform",
+          "tone": "positive",
+          "summary": "frames reform as the main test; Why does our healthcare system lack diabetes prevention and management programmes?.",
+          "url": "https://www.dawn.com/news/2005329/incomplete-systems-markets",
+          "dateIso": "2026-06-05"
+        },
+        {
+          "title": "Beyond budget arithmetic",
+          "author": "Ehsan Malik",
+          "theme": "State",
+          "tone": "positive",
+          "summary": "casts state capacity as the central question; Pakistan has absorbed much of the fiscal cost of devolution without fully realising its potential efficiency gains..",
+          "url": "https://www.dawn.com/news/2005328/beyond-budget-arithmetic",
+          "dateIso": "2026-06-05"
+        },
+        {
+          "title": "Permanence & change",
+          "author": "Jan-e-Alam Khaki",
+          "theme": "State",
+          "tone": "positive",
+          "summary": "casts state capacity as the central question; We need to make a difference between form and essence..",
+          "url": "https://www.dawn.com/news/2005326/permanence-change",
+          "dateIso": "2026-06-05"
+        },
+        {
+          "title": "Hollowed out",
+          "author": "Aasim Sajjad Akhtar",
+          "theme": "State",
+          "tone": "positive",
+          "summary": "casts state capacity as the central question; Working people are at breaking point..",
+          "url": "https://www.dawn.com/news/2005325/hollowed-out",
+          "dateIso": "2026-06-05"
+        },
+        {
+          "title": "China opens telecommunications sector to foreign companies",
+          "author": "Editorial",
+          "theme": "State",
+          "tone": "positive",
+          "summary": "casts state capacity as the central question; Home Latest Budget 2026-27 Violations Tracker Pakistan Opinion Business Images Prism World Sport Breathe Magazines Tech Videos Popular Archive Flood Donations Search Search Subscribe to notifications Get the latest news and update.",
+          "url": "https://www.dawn.com/news/2005076/china-opens-telecommunications-sector-to-foreign-companies",
+          "dateIso": "2026-06-05"
+        },
+        {
+          "title": "Environment deficit",
+          "author": "Editorial",
+          "theme": "State",
+          "tone": "positive",
+          "summary": "casts state capacity as the central question; Pakistan knows all too well the consequences of environmental neglect..",
+          "url": "https://www.dawn.com/news/2005297/environment-deficit",
+          "dateIso": "2026-06-05"
+        },
+        {
+          "title": "Rights concerns",
+          "author": "Editorial",
+          "theme": "State",
+          "tone": "positive",
+          "summary": "casts state capacity as the central question; TWO recent news reports have highlighted foreign concerns about the state of human and labour rights in the country.....",
+          "url": "https://www.dawn.com/news/2005296/rights-concerns",
+          "dateIso": "2026-06-05"
+        }
+      ]
+    },
+    {
+      "source": "The News International",
+      "status": "blocked",
+      "error": "No matching articles found for 05 June 2026",
+      "scores": {
+        "State": 0,
+        "Opposition": 0,
+        "Reform": 0,
+        "Security": 0,
+        "Civil liberties": 0
+      },
+      "items": []
+    },
+    {
+      "source": "The Express Tribune",
+      "status": "scraped",
+      "scores": {
+        "State": 3,
+        "Opposition": 2.5,
+        "Reform": 3.5,
+        "Security": 5,
+        "Civil liberties": 3.5
+      },
+      "items": [
+        {
+          "title": "Blow to Trump",
+          "author": "editorial",
+          "theme": "Security",
+          "tone": "critical",
+          "summary": "treats the issue as a security and stability risk; The US Congress has castigated Donald Trump for his war-mongering in the Middle East.",
+          "url": "https://tribune.com.pk/story/2611482/blow-to-trump",
+          "dateIso": "2026-06-05"
+        },
+        {
+          "title": "Prioritising climate",
+          "author": "editorial",
+          "theme": "Security",
+          "tone": "critical",
+          "summary": "treats the issue as a security and stability risk; World Environment Day, observed annually on June 5, arrives this year with a message that is both timely and urgent.",
+          "url": "https://tribune.com.pk/story/2611483/prioritising-climate",
+          "dateIso": "2026-06-05"
+        },
+        {
+          "title": "No end in sight",
+          "author": "editorial",
+          "theme": "Reform",
+          "tone": "positive",
+          "summary": "frames reform as the main test; Keeping track of the Greater Karachi Bulk Water Supply Scheme (K-IV Project) feels a bit like Groundhog Day.",
+          "url": "https://tribune.com.pk/story/2611484/no-end-in-sight",
+          "dateIso": "2026-06-05"
+        },
+        {
+          "title": "What's in the name - or is it in the name?",
+          "author": "Sadia Pasha Kamran",
+          "theme": "Civil liberties",
+          "tone": "critical",
+          "summary": "places rights and civic protections at the centre; How the phrase 'we sinful women' continues to resonate as part of our shared social history.",
+          "url": "https://tribune.com.pk/story/2611485/whats-in-the-name-or-is-it-in-the-name",
+          "dateIso": "2026-06-05"
+        },
+        {
+          "title": "Iran's moment",
+          "author": "Shahzad Chaudhry",
+          "theme": "Security",
+          "tone": "critical",
+          "summary": "treats the issue as a security and stability risk; From a pariah to an equal partner in a dialogue for peace.",
+          "url": "https://tribune.com.pk/story/2611486/irans-moment",
+          "dateIso": "2026-06-05"
+        },
+        {
+          "title": "Being and Becoming",
+          "author": "Aneela Shahzad",
+          "theme": "State",
+          "tone": "positive",
+          "summary": "casts state capacity as the central question; Modern cosmology often presents itself as the most triumphant extension of physics.",
+          "url": "https://tribune.com.pk/story/2611487/being-and-becoming-1",
+          "dateIso": "2026-06-05"
+        }
+      ]
+    }
+  ],
+  "archive": {
+    "folder": "archive/2026-06-05",
+    "files": [
+      "report.json",
+      "report.txt"
+    ],
+    "archivedAt": "2026-06-05T19:31:59.218Z"
+  }
+}
